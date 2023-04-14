@@ -1,5 +1,5 @@
 # Discord DesToBOT 
 
-using:
-import discord
+using: \n
+import discord \n
 from discord.ext import commands, tasks
